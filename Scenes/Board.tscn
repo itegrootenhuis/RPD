@@ -1,92 +1,18 @@
-[gd_scene load_steps=2 format=3 uid="uid://c8qajh7vch3pd"]
+[gd_scene load_steps=5 format=3 uid="uid://c8qajh7vch3pd"]
 
+[ext_resource type="Script" path="res://Scripts/TitleContainerHelper.cs" id="1_31cro"]
+[ext_resource type="PackedScene" uid="uid://bp7x7al0sd1ru" path="res://Scenes/Tiles/CornerTile.tscn" id="1_lyo3u"]
 [ext_resource type="PackedScene" uid="uid://dallaoyy6jhfr" path="res://Scenes/PlayerPawn.tscn" id="1_uovum"]
+[ext_resource type="PackedScene" uid="uid://c3iro6fi1wt7g" path="res://Scenes/Tiles/Tile.tscn" id="2_ugilk"]
 
 [node name="Board" type="Node2D"]
 
 [node name="TileContainer" type="Node2D" parent="."]
+script = ExtResource("1_31cro")
 
-[node name="Tile0" type="Node2D" parent="TileContainer"]
+[node name="CornerTile0" parent="TileContainer" instance=ExtResource("1_lyo3u")]
 
-[node name="Tile1" type="Node2D" parent="TileContainer"]
-
-[node name="Tile2" type="Node2D" parent="TileContainer"]
-
-[node name="Tile3" type="Node2D" parent="TileContainer"]
-
-[node name="Tile4" type="Node2D" parent="TileContainer"]
-
-[node name="Tile5" type="Node2D" parent="TileContainer"]
-
-[node name="Tile6" type="Node2D" parent="TileContainer"]
-
-[node name="Tile7" type="Node2D" parent="TileContainer"]
-
-[node name="Tile8" type="Node2D" parent="TileContainer"]
-
-[node name="Tile9" type="Node2D" parent="TileContainer"]
-
-[node name="Tile10" type="Node2D" parent="TileContainer"]
-
-[node name="Tile11" type="Node2D" parent="TileContainer"]
-
-[node name="Tile12" type="Node2D" parent="TileContainer"]
-
-[node name="Tile13" type="Node2D" parent="TileContainer"]
-
-[node name="Tile14" type="Node2D" parent="TileContainer"]
-
-[node name="Tile15" type="Node2D" parent="TileContainer"]
-
-[node name="Tile16" type="Node2D" parent="TileContainer"]
-
-[node name="Tile17" type="Node2D" parent="TileContainer"]
-
-[node name="Tile18" type="Node2D" parent="TileContainer"]
-
-[node name="Tile19" type="Node2D" parent="TileContainer"]
-
-[node name="Tile20" type="Node2D" parent="TileContainer"]
-
-[node name="Tile21" type="Node2D" parent="TileContainer"]
-
-[node name="Tile22" type="Node2D" parent="TileContainer"]
-
-[node name="Tile23" type="Node2D" parent="TileContainer"]
-
-[node name="Tile24" type="Node2D" parent="TileContainer"]
-
-[node name="Tile25" type="Node2D" parent="TileContainer"]
-
-[node name="Tile26" type="Node2D" parent="TileContainer"]
-
-[node name="Tile27" type="Node2D" parent="TileContainer"]
-
-[node name="Tile28" type="Node2D" parent="TileContainer"]
-
-[node name="Tile29" type="Node2D" parent="TileContainer"]
-
-[node name="Tile30" type="Node2D" parent="TileContainer"]
-
-[node name="Tile31" type="Node2D" parent="TileContainer"]
-
-[node name="Tile32" type="Node2D" parent="TileContainer"]
-
-[node name="Tile33" type="Node2D" parent="TileContainer"]
-
-[node name="Tile34" type="Node2D" parent="TileContainer"]
-
-[node name="Tile35" type="Node2D" parent="TileContainer"]
-
-[node name="Tile36" type="Node2D" parent="TileContainer"]
-
-[node name="Tile37" type="Node2D" parent="TileContainer"]
-
-[node name="Tile38" type="Node2D" parent="TileContainer"]
-
-[node name="Tile39" type="Node2D" parent="TileContainer"]
-
-[node name="Tile40" type="Node2D" parent="TileContainer"]
+[node name="Tile0" parent="TileContainer" instance=ExtResource("2_ugilk")]
 
 [node name="PlayerPawns" type="Node2D" parent="."]
 
