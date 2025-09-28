@@ -1,3 +1,10 @@
-[gd_scene format=3 uid="uid://dbeq5a0r71mrt"]
+[gd_scene load_steps=3 format=3 uid="uid://dbeq5a0r71mrt"]
+
+[ext_resource type="PackedScene" uid="uid://2o4m7m3mk5rh" path="res://Scenes/Victory.tscn" id="1_ar5dk"]
+[ext_resource type="PackedScene" uid="uid://db8j5djuvedxy" path="res://Scenes/Defeat.tscn" id="2_lrcdl"]
 
 [node name="Results" type="Node2D"]
+
+[node name="Victory" parent="." instance=ExtResource("1_ar5dk")]
+
+[node name="Defeat" parent="." instance=ExtResource("2_lrcdl")]

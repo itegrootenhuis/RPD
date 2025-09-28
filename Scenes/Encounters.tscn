@@ -1,3 +1,13 @@
-[gd_scene format=3 uid="uid://dvo2ohmnjdv18"]
+[gd_scene load_steps=4 format=3 uid="uid://dvo2ohmnjdv18"]
+
+[ext_resource type="PackedScene" uid="uid://cjwo7m6esp6sj" path="res://Scenes/AutoBattle.tscn" id="1_paldo"]
+[ext_resource type="PackedScene" uid="uid://ckj3ko07ps5jp" path="res://Scenes/Shop.tscn" id="2_n2xp5"]
+[ext_resource type="PackedScene" uid="uid://bauwr8yq0nkq1" path="res://Scenes/MiniGame.tscn" id="3_l20fu"]
 
 [node name="Encounters" type="Node2D"]
+
+[node name="AutoBattle" parent="." instance=ExtResource("1_paldo")]
+
+[node name="Shop" parent="." instance=ExtResource("2_n2xp5")]
+
+[node name="MiniGame" parent="." instance=ExtResource("3_l20fu")]
