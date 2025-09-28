@@ -196,7 +196,8 @@ public partial class Game : Node
 
 	private static GameState GetGameState()
 	{
-		var gs = (GameState)Engine.GetMainLoop().Root.GetNode("/root/GameState");
-		return gs;
+        var tree = (SceneTree)Engine.GetMainLoop();
+        var gs = (GameState)tree.Root.GetNode( "/root/GameState" );
+        return gs;
 	}
 }

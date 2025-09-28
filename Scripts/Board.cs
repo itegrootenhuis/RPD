@@ -76,7 +76,8 @@ public partial class Board : Node2D
 
 	private static GameState GameStateSingleton()
 	{
-		var gs = (GameState)Engine.GetMainLoop().Root.GetNode("/root/GameState");
-		return gs;
+        var tree = (SceneTree)Engine.GetMainLoop();
+        var gs = (GameState)tree.Root.GetNode( "/root/GameState" );
+        return gs;
 	}
 }
