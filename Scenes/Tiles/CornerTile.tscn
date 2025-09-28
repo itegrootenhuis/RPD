@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://bp7x7al0sd1ru"]
+
+[node name="CornerTile" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_right = 200.0
+offset_bottom = 200.0
+color = Color(0, 0.729412, 0.207843, 1)
