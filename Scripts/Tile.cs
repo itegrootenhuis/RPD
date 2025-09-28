@@ -6,12 +6,21 @@ public partial class Tile : Node2D
 	[Export] public int ParamA = 0;
 	[Export] public string Payload = "";
 
-	// optional: quick reference to child ColorRect or Panel
 	private Control _visual;
 
 	public override void _Ready()
 	{
-		_visual = GetNode<Control>("ColorRect");
+		_visual = GetNodeOrNull<Control>("ColorRect") ?? GetNodeOrNull<Control>("Panel");
+		ApplyColor();
+	}
+
+	// Call this if you change Type after the node is in the tree
+	public void RefreshVisual()
+	{
+		if (_visual == null)
+		{
+			_visual = GetNodeOrNull<Control>("ColorRect") ?? GetNodeOrNull<Control>("Panel");
+		}
 		ApplyColor();
 	}
 
@@ -19,12 +28,21 @@ public partial class Tile : Node2D
 	{
 		if (_visual is ColorRect rect)
 		{
-			switch (Type)
+			if (Type == TileType.Battle)
 			{
-				case TileType.Battle: rect.Color = Colors.Red; break;
-				case TileType.Heal:   rect.Color = Colors.Green; break;
-				case TileType.Gold:   rect.Color = Colors.Yellow; break;
-				default:              rect.Color = Colors.Gray; break;
+				rect.Color = Colors.DarkRed;
+			}
+			else if (Type == TileType.Heal)
+			{
+				rect.Color = Colors.LawnGreen;
+			}
+			else if (Type == TileType.Gold)
+			{
+				rect.Color = Colors.Yellow;
+			}
+			else
+			{
+				rect.Color = Colors.Gray;
 			}
 		}
 	}

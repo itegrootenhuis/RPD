@@ -1,20 +1,103 @@
 [gd_scene load_steps=5 format=3 uid="uid://c8qajh7vch3pd"]
 
-[ext_resource type="Script" path="res://Scripts/TitleContainerHelper.cs" id="1_31cro"]
+[ext_resource type="Script" uid="uid://fa4vu8q7qesr" path="res://Scripts/BoardGenerator.cs" id="1_ekcd8"]
 [ext_resource type="PackedScene" uid="uid://bp7x7al0sd1ru" path="res://Scenes/Tiles/CornerTile.tscn" id="1_lyo3u"]
 [ext_resource type="PackedScene" uid="uid://dallaoyy6jhfr" path="res://Scenes/PlayerPawn.tscn" id="1_uovum"]
 [ext_resource type="PackedScene" uid="uid://c3iro6fi1wt7g" path="res://Scenes/Tiles/Tile.tscn" id="2_ugilk"]
 
 [node name="Board" type="Node2D"]
+script = ExtResource("1_ekcd8")
+TileSize = 100.0
+TileScene = ExtResource("2_ugilk")
+CornerTileScene = ExtResource("1_lyo3u")
 
 [node name="TileContainer" type="Node2D" parent="."]
-script = ExtResource("1_31cro")
+visible = false
 
 [node name="CornerTile0" parent="TileContainer" instance=ExtResource("1_lyo3u")]
 
 [node name="Tile0" parent="TileContainer" instance=ExtResource("2_ugilk")]
 
+[node name="Tile1" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile2" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile3" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile4" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile5" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile6" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile7" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile8" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="CornerTile1" parent="TileContainer" instance=ExtResource("1_lyo3u")]
+
+[node name="Tile9" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile10" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile11" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile12" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile13" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile14" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile15" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile16" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile17" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="CornerTile2" parent="TileContainer" instance=ExtResource("1_lyo3u")]
+
+[node name="Tile18" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile19" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile20" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile21" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile22" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile23" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile24" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile25" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile26" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="CornerTile3" parent="TileContainer" instance=ExtResource("1_lyo3u")]
+
+[node name="Tile27" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile28" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile29" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile30" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile31" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile32" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile33" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile34" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile35" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
+[node name="Tile36" parent="TileContainer" instance=ExtResource("2_ugilk")]
+
 [node name="PlayerPawns" type="Node2D" parent="."]
+visible = false
 
 [node name="PlayerPawn1" parent="PlayerPawns" instance=ExtResource("1_uovum")]
 
