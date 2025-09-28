@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://du6350g7ss4n2"
+path="res://.godot/imported/Spell_Debuff_1.wav-435fca36a1415fdd0015cb303cab3ef3.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells 2/WAV/Spell_Debuff_1.wav"
+dest_files=["res://.godot/imported/Spell_Debuff_1.wav-435fca36a1415fdd0015cb303cab3ef3.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

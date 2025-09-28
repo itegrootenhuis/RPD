@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cfh8u6go44wgf"
+path="res://.godot/imported/Spell_Fire_4.wav-2c9c8251f39b42ff40f7088e81d9daee.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells 2/WAV/Spell_Fire_4.wav"
+dest_files=["res://.godot/imported/Spell_Fire_4.wav-2c9c8251f39b42ff40f7088e81d9daee.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

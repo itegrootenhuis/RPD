@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bx5jmfk31he2x"
+path="res://.godot/imported/UI2_Decline_3.ogg-7d348a26be21a571a617abcbe0286a6b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/UI Sound FX Asset Pack 2/OGG/UI2_Decline_3.ogg"
+dest_files=["res://.godot/imported/UI2_Decline_3.ogg-7d348a26be21a571a617abcbe0286a6b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

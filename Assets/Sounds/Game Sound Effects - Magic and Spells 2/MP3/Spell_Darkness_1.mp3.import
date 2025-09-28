@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://csmqnue1o32xw"
+path="res://.godot/imported/Spell_Darkness_1.mp3-0054e1628148461533a3c4b23c1a4718.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells 2/MP3/Spell_Darkness_1.mp3"
+dest_files=["res://.godot/imported/Spell_Darkness_1.mp3-0054e1628148461533a3c4b23c1a4718.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

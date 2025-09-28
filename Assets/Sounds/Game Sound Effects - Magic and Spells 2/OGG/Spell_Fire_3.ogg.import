@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://gijxpwv65mko"
+path="res://.godot/imported/Spell_Fire_3.ogg-9b2b1e1c7c0af0c923b7a7221fdecd95.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells 2/OGG/Spell_Fire_3.ogg"
+dest_files=["res://.godot/imported/Spell_Fire_3.ogg-9b2b1e1c7c0af0c923b7a7221fdecd95.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

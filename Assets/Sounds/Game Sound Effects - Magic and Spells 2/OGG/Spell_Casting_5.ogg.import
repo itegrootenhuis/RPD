@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cpvtstdcc5kbq"
+path="res://.godot/imported/Spell_Casting_5.ogg-403b3aa9b0825feb6dbff6f7a48c28fb.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells 2/OGG/Spell_Casting_5.ogg"
+dest_files=["res://.godot/imported/Spell_Casting_5.ogg-403b3aa9b0825feb6dbff6f7a48c28fb.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

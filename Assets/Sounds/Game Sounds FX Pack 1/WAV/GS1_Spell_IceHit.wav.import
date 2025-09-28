@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dpqy8av01iaai"
+path="res://.godot/imported/GS1_Spell_IceHit.wav-0be57aa42ca9d21284659b01833b4053.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 1/WAV/GS1_Spell_IceHit.wav"
+dest_files=["res://.godot/imported/GS1_Spell_IceHit.wav-0be57aa42ca9d21284659b01833b4053.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

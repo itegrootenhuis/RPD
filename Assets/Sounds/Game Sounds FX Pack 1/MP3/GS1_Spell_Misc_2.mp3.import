@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c6o6yroiw5ali"
+path="res://.godot/imported/GS1_Spell_Misc_2.mp3-85f506317300298dee67c2808c1dc5fc.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 1/MP3/GS1_Spell_Misc_2.mp3"
+dest_files=["res://.godot/imported/GS1_Spell_Misc_2.mp3-85f506317300298dee67c2808c1dc5fc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

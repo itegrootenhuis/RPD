@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bsj4oq77ekq4b"
+path="res://.godot/imported/Spell_Buff_4.ogg-092032ca9967676e471e3125aca4facb.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells 2/OGG/Spell_Buff_4.ogg"
+dest_files=["res://.godot/imported/Spell_Buff_4.ogg-092032ca9967676e471e3125aca4facb.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

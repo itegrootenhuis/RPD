@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://kutk51nfeweb"
+path="res://.godot/imported/UI2_Window_Error_2.ogg-233e3174bd84bb1d089e4a0cf36021fd.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/UI Sound FX Asset Pack 2/OGG/UI2_Window_Error_2.ogg"
+dest_files=["res://.godot/imported/UI2_Window_Error_2.ogg-233e3174bd84bb1d089e4a0cf36021fd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://mdkw616v4o8w"
+path="res://.godot/imported/GS2_Vases_Breaking_2.mp3-352ba7da318826f88ffda14cfdac3b2d.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/MP3/GS2_Vases_Breaking_2.mp3"
+dest_files=["res://.godot/imported/GS2_Vases_Breaking_2.mp3-352ba7da318826f88ffda14cfdac3b2d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

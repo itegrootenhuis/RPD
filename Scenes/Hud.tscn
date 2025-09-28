@@ -1,0 +1,29 @@
+[gd_scene load_steps=2 format=3 uid="uid://b8mct03cnjp6"]
+
+[ext_resource type="PackedScene" uid="uid://dc0q8xgn4hyi1" path="res://Scenes/PlayerHud.tscn" id="1_cks3v"]
+
+[node name="Hud" type="Node2D"]
+
+[node name="CurrentPlayerLabel" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="RoundLabel" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="RollButton" type="Button" parent="."]
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="LogText" type="RichTextLabel" parent="."]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="PlayerHud1" parent="." instance=ExtResource("1_cks3v")]
+
+[node name="PlayerHud2" parent="." instance=ExtResource("1_cks3v")]
+
+[node name="PlayerHud3" parent="." instance=ExtResource("1_cks3v")]
+
+[node name="PlayerHud4" parent="." instance=ExtResource("1_cks3v")]

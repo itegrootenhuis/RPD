@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dtdb02h630vvn"
+path="res://.godot/imported/Spell_Casting_4.wav-7c5fa0073865ff19961ad044dfce48dc.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells 2/WAV/Spell_Casting_4.wav"
+dest_files=["res://.godot/imported/Spell_Casting_4.wav-7c5fa0073865ff19961ad044dfce48dc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

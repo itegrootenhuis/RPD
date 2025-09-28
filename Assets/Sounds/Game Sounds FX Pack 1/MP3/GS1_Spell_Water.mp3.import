@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d2mujpm6oik8i"
+path="res://.godot/imported/GS1_Spell_Water.mp3-166c9364e85fbd02143288cc0697d8e0.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 1/MP3/GS1_Spell_Water.mp3"
+dest_files=["res://.godot/imported/GS1_Spell_Water.mp3-166c9364e85fbd02143288cc0697d8e0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

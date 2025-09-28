@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b1o7xnfy0p46y"
+path="res://.godot/imported/UI2_Trophy_2.mp3-56d55ffffa8b19d993ea678e88d726a1.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/UI Sound FX Asset Pack 2/MP3/UI2_Trophy_2.mp3"
+dest_files=["res://.godot/imported/UI2_Trophy_2.mp3-56d55ffffa8b19d993ea678e88d726a1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

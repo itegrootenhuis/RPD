@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b162bjlrt05t1"
+path="res://.godot/imported/GS2_Treasure_Chest_Unlock.mp3-77a52da17de0e456b5a310e5d31baa42.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/MP3/GS2_Treasure_Chest_Unlock.mp3"
+dest_files=["res://.godot/imported/GS2_Treasure_Chest_Unlock.mp3-77a52da17de0e456b5a310e5d31baa42.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

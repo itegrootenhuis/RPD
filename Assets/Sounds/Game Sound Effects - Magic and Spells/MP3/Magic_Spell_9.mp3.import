@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ducw2b4nkb8db"
+path="res://.godot/imported/Magic_Spell_9.mp3-644ab82cc821a2706fb8ca72cc048a52.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells/MP3/Magic_Spell_9.mp3"
+dest_files=["res://.godot/imported/Magic_Spell_9.mp3-644ab82cc821a2706fb8ca72cc048a52.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

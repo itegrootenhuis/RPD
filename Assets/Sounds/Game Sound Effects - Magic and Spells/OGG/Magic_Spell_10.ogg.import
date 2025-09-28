@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://croy6gtgt2uk1"
+path="res://.godot/imported/Magic_Spell_10.ogg-02ff3c6fad3fde6d0a27ba39c6b5a035.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells/OGG/Magic_Spell_10.ogg"
+dest_files=["res://.godot/imported/Magic_Spell_10.ogg-02ff3c6fad3fde6d0a27ba39c6b5a035.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

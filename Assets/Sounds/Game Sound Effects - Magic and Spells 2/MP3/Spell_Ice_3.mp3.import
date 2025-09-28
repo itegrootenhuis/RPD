@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c7pmf78yxw3ha"
+path="res://.godot/imported/Spell_Ice_3.mp3-22ee23e03d90a98450960c14dfa9a0c3.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells 2/MP3/Spell_Ice_3.mp3"
+dest_files=["res://.godot/imported/Spell_Ice_3.mp3-22ee23e03d90a98450960c14dfa9a0c3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

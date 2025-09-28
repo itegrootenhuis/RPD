@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ca3wjeatgky5r"
+path="res://.godot/imported/GS2_Jump_1.ogg-055977cfe53d561df49cc4afa07bea37.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/OGG/GS2_Jump_1.ogg"
+dest_files=["res://.godot/imported/GS2_Jump_1.ogg-055977cfe53d561df49cc4afa07bea37.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

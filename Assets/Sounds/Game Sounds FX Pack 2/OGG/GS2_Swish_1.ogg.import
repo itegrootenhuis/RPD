@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ba5x6dtwkedf1"
+path="res://.godot/imported/GS2_Swish_1.ogg-0ce3285838a1142fa229b0e844d56b27.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/OGG/GS2_Swish_1.ogg"
+dest_files=["res://.godot/imported/GS2_Swish_1.ogg-0ce3285838a1142fa229b0e844d56b27.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

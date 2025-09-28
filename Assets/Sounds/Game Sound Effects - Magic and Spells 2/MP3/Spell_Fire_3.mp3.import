@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b7tr3lw5nqqt7"
+path="res://.godot/imported/Spell_Fire_3.mp3-f5a39b6dcc742e6139f894d506426c3e.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells 2/MP3/Spell_Fire_3.mp3"
+dest_files=["res://.godot/imported/Spell_Fire_3.mp3-f5a39b6dcc742e6139f894d506426c3e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

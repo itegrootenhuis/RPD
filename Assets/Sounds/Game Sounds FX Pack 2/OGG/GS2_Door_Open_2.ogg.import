@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c7sy2axxvnc6t"
+path="res://.godot/imported/GS2_Door_Open_2.ogg-9836d59d989c9bfef8955e43f0af101c.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/OGG/GS2_Door_Open_2.ogg"
+dest_files=["res://.godot/imported/GS2_Door_Open_2.ogg-9836d59d989c9bfef8955e43f0af101c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

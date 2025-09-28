@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://brefplm6jbx7i"
+path="res://.godot/imported/UI2_Splash_1.mp3-2fff45da323afe2a940f188d69a8edfe.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/UI Sound FX Asset Pack 2/MP3/UI2_Splash_1.mp3"
+dest_files=["res://.godot/imported/UI2_Splash_1.mp3-2fff45da323afe2a940f188d69a8edfe.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

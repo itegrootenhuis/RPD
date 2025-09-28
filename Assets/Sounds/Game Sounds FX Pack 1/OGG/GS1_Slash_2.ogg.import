@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://da7aopxtj6g8t"
+path="res://.godot/imported/GS1_Slash_2.ogg-32c9f51c85bf22b68c0df1a74dc43947.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 1/OGG/GS1_Slash_2.ogg"
+dest_files=["res://.godot/imported/GS1_Slash_2.ogg-32c9f51c85bf22b68c0df1a74dc43947.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cb77u6vc0p4k6"
+path="res://.godot/imported/GS2_Door_Open_1.mp3-19961adfa145a022481f0b1785630357.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/MP3/GS2_Door_Open_1.mp3"
+dest_files=["res://.godot/imported/GS2_Door_Open_1.mp3-19961adfa145a022481f0b1785630357.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://02dxy6tiq8e4"
+path="res://.godot/imported/GS2_Jump_2.wav-5000004d3f76c9d07d287f67e5d248e0.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/WAV/GS2_Jump_2.wav"
+dest_files=["res://.godot/imported/GS2_Jump_2.wav-5000004d3f76c9d07d287f67e5d248e0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

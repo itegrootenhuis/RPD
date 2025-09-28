@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://38sjcofuyna4"
+path="res://.godot/imported/UI2_Button_1.mp3-c4f4eb8ecc2cfadd15638ab7ec9352a8.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/UI Sound FX Asset Pack 2/MP3/UI2_Button_1.mp3"
+dest_files=["res://.godot/imported/UI2_Button_1.mp3-c4f4eb8ecc2cfadd15638ab7ec9352a8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

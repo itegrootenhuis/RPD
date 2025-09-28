@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://clw7o248ckcad"
+path="res://.godot/imported/GS2_Item_Acquire_3.ogg-b22e26ec9c95e90e1c0c47f43d8f40b8.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/OGG/GS2_Item_Acquire_3.ogg"
+dest_files=["res://.godot/imported/GS2_Item_Acquire_3.ogg-b22e26ec9c95e90e1c0c47f43d8f40b8.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

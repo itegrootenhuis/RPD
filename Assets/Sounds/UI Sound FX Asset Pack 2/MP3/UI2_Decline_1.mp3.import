@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c4iah4wf5wvie"
+path="res://.godot/imported/UI2_Decline_1.mp3-16c550c4ace5f08a0f5d3cbb987e4e6b.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/UI Sound FX Asset Pack 2/MP3/UI2_Decline_1.mp3"
+dest_files=["res://.godot/imported/UI2_Decline_1.mp3-16c550c4ace5f08a0f5d3cbb987e4e6b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ijg4h6335i44"
+path="res://.godot/imported/Magic_Spell_5.wav-c516f41d3243f7ae09e0ca1cc4cc043d.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells/WAV/Magic_Spell_5.wav"
+dest_files=["res://.godot/imported/Magic_Spell_5.wav-c516f41d3243f7ae09e0ca1cc4cc043d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

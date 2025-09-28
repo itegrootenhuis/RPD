@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ctmq1voogoayr"
+path="res://.godot/imported/UI2_Button_8.ogg-78722d72d2b51d8854befaf08022071e.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/UI Sound FX Asset Pack 2/OGG/UI2_Button_8.ogg"
+dest_files=["res://.godot/imported/UI2_Button_8.ogg-78722d72d2b51d8854befaf08022071e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bdse0v4ub80gs"
+path="res://.godot/imported/GS2_Fall_2.mp3-40f7cb528308ec0737cb17a8f6d8eb48.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/MP3/GS2_Fall_2.mp3"
+dest_files=["res://.godot/imported/GS2_Fall_2.mp3-40f7cb528308ec0737cb17a8f6d8eb48.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://byxvy840ijn41"
+path="res://.godot/imported/GS2_Land.ogg-50dbdfeea03dc1eb1ec43fd5c2ceeb71.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/OGG/GS2_Land.ogg"
+dest_files=["res://.godot/imported/GS2_Land.ogg-50dbdfeea03dc1eb1ec43fd5c2ceeb71.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

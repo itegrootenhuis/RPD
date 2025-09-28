@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cv3a2fftmcjwv"
+path="res://.godot/imported/Spell_Buff_3.mp3-18ac7e934577dfd7ed478abf25ef3903.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells 2/MP3/Spell_Buff_3.mp3"
+dest_files=["res://.godot/imported/Spell_Buff_3.mp3-18ac7e934577dfd7ed478abf25ef3903.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c7ib4pt7tbg7b"
+path="res://.godot/imported/GS2_Vases_Breaking_1.ogg-f30250128989e046d3cdadbaa47c9a0b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/OGG/GS2_Vases_Breaking_1.ogg"
+dest_files=["res://.godot/imported/GS2_Vases_Breaking_1.ogg-f30250128989e046d3cdadbaa47c9a0b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

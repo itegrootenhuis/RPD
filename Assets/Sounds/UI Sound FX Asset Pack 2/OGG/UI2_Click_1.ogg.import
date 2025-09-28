@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d0qu6nkq6a5v0"
+path="res://.godot/imported/UI2_Click_1.ogg-87facac731fbffb1e030fae327c33bfd.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/UI Sound FX Asset Pack 2/OGG/UI2_Click_1.ogg"
+dest_files=["res://.godot/imported/UI2_Click_1.ogg-87facac731fbffb1e030fae327c33bfd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

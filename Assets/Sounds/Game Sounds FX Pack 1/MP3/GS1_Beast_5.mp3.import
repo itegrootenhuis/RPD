@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://5df5q12k624i"
+path="res://.godot/imported/GS1_Beast_5.mp3-3e35f0d0939c0053b5c51dd38d0afeb0.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 1/MP3/GS1_Beast_5.mp3"
+dest_files=["res://.godot/imported/GS1_Beast_5.mp3-3e35f0d0939c0053b5c51dd38d0afeb0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

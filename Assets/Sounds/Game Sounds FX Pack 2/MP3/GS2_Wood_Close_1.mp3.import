@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d4mo8cdbqsmfn"
+path="res://.godot/imported/GS2_Wood_Close_1.mp3-ac24e8a9c808b32f35a80853847081a8.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/MP3/GS2_Wood_Close_1.mp3"
+dest_files=["res://.godot/imported/GS2_Wood_Close_1.mp3-ac24e8a9c808b32f35a80853847081a8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

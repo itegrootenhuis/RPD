@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://kx2k1k55ya7b"
+path="res://.godot/imported/GS2_Item_Acquire_4.wav-9cda8a9c5d40181139367e4d712cc887.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/WAV/GS2_Item_Acquire_4.wav"
+dest_files=["res://.godot/imported/GS2_Item_Acquire_4.wav-9cda8a9c5d40181139367e4d712cc887.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

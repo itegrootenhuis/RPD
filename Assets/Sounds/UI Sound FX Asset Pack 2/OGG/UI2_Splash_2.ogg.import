@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d2p1wa4b5qhb7"
+path="res://.godot/imported/UI2_Splash_2.ogg-964a454b45ca252ee1d99e8483bcdd60.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/UI Sound FX Asset Pack 2/OGG/UI2_Splash_2.ogg"
+dest_files=["res://.godot/imported/UI2_Splash_2.ogg-964a454b45ca252ee1d99e8483bcdd60.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

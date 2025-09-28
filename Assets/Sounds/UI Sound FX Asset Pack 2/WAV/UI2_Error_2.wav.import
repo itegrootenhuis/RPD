@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cokhjw2qmmhjg"
+path="res://.godot/imported/UI2_Error_2.wav-be1f0b0a5ebf06ca1dd5b74ba0740a5e.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/UI Sound FX Asset Pack 2/WAV/UI2_Error_2.wav"
+dest_files=["res://.godot/imported/UI2_Error_2.wav-be1f0b0a5ebf06ca1dd5b74ba0740a5e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

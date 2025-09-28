@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cc7m3ibr827qi"
+path="res://.godot/imported/Spell_Buff_2.wav-98f75f0b1ce38c86a616a971e8c51336.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells 2/WAV/Spell_Buff_2.wav"
+dest_files=["res://.godot/imported/Spell_Buff_2.wav-98f75f0b1ce38c86a616a971e8c51336.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

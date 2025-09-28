@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://dc0q8xgn4hyi1"]
+
+[node name="PlayerHud" type="Node2D"]
+
+[node name="Health" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="Mana" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="Gold" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0

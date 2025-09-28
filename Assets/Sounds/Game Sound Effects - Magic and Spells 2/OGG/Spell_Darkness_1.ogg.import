@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bkudbug1gx5iv"
+path="res://.godot/imported/Spell_Darkness_1.ogg-0ed9217d15045b735a9cfe9415557cce.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sound Effects - Magic and Spells 2/OGG/Spell_Darkness_1.ogg"
+dest_files=["res://.godot/imported/Spell_Darkness_1.ogg-0ed9217d15045b735a9cfe9415557cce.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

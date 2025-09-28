@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bibam8kghxx5j"
+path="res://.godot/imported/GS1_Spell_Water.ogg-0c88885f222560a2448a7dc5bd521dbd.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 1/OGG/GS1_Spell_Water.ogg"
+dest_files=["res://.godot/imported/GS1_Spell_Water.ogg-0c88885f222560a2448a7dc5bd521dbd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

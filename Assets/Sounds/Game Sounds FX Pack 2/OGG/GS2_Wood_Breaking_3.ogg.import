@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dd7mka3w6u3v0"
+path="res://.godot/imported/GS2_Wood_Breaking_3.ogg-57d6f1159ef4b51d48f912117ef51fac.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 2/OGG/GS2_Wood_Breaking_3.ogg"
+dest_files=["res://.godot/imported/GS2_Wood_Breaking_3.ogg-57d6f1159ef4b51d48f912117ef51fac.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

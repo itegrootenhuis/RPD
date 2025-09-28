@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dfj5t2hmlswws"
+path="res://.godot/imported/GS1_Damage_2.ogg-168eda4f13d3d92ad8a86b59f02cce73.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Game Sounds FX Pack 1/OGG/GS1_Damage_2.ogg"
+dest_files=["res://.godot/imported/GS1_Damage_2.ogg-168eda4f13d3d92ad8a86b59f02cce73.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
