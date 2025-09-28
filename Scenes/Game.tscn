@@ -1,3 +1,12 @@
-[gd_scene format=3 uid="uid://cim0ndh02q5gg"]
+[gd_scene load_steps=3 format=3 uid="uid://cim0ndh02q5gg"]
+
+[ext_resource type="PackedScene" uid="uid://c8qajh7vch3pd" path="res://Scenes/Board.tscn" id="1_bxtfk"]
+[ext_resource type="PackedScene" uid="uid://b8mct03cnjp6" path="res://Scenes/Hud.tscn" id="2_wbmlp"]
 
 [node name="Game" type="Node2D"]
+
+[node name="Board" parent="." instance=ExtResource("1_bxtfk")]
+
+[node name="Hud" parent="." instance=ExtResource("2_wbmlp")]
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]

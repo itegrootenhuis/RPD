@@ -37,7 +37,7 @@ public partial class GameState : Node
 		}
 
 		Rng = new RandomNumberGenerator();
-		Rng.Seed = (long)seed;
+		Rng.Seed = (ulong)seed;
 
 		Turn = new TurnSystem(PlayerCount, MaxRounds);
 		Board = DemoContent.MakeDemoBoard();

@@ -7,14 +7,14 @@ public partial class Game : Node
 	[Export] public NodePath HudPath;
 
 	private Board _board;
-	private HUD _hud;
+	private Hud _hud;
 	private GameState _gs;
 
 	public override void _Ready()
 	{
 		_gs = GetGameState();
 		_board = GetNode<Board>(BoardPath);
-		_hud = GetNode<HUD>(HudPath);
+		_hud = GetNode<Hud>(HudPath);
 
 		// WIRE SIGNALS
 		_board.PawnArrived += OnPawnArrived;

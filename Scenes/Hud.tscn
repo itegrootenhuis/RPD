@@ -2,7 +2,7 @@
 
 [ext_resource type="PackedScene" uid="uid://dc0q8xgn4hyi1" path="res://Scenes/PlayerHud.tscn" id="1_cks3v"]
 
-[node name="Hud" type="Node2D"]
+[node name="Hud" type="CanvasLayer"]
 
 [node name="CurrentPlayerLabel" type="Label" parent="."]
 offset_right = 40.0
