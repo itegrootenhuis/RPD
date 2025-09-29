@@ -7,9 +7,9 @@
 
 [node name="Board" type="Node2D"]
 script = ExtResource("1_ekcd8")
-TileSize = 100.0
-TileScene = ExtResource("2_ugilk")
 CornerTileScene = ExtResource("1_lyo3u")
+RectTileScene = ExtResource("2_ugilk")
+RectWidth = 80
 
 [node name="TileContainer" type="Node2D" parent="."]
 visible = false
